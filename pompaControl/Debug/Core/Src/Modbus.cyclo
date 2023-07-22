@@ -1,0 +1,14 @@
+Modbus.c:52:6:lock	1
+Modbus.c:57:6:unlock	1
+Modbus.c:66:8:mbus_open	4
+Modbus.c:84:15:mbus_flush	1
+Modbus.c:92:15:mbus_response	2
+Modbus.c:103:22:mbus_poll_response	23
+Modbus.c:196:10:mbus_tickcount	1
+Modbus.c:208:15:mbus_poll	28
+Modbus.c:345:16:mbus_device	1
+Modbus.c:350:16:mbus_context	2
+Modbus.c:358:15:mbus_send_error	1
+Modbus.c:365:15:mbus_send_data	6
+Modbus.c:383:15:mbus_connect	1
+Modbus.c:398:6:mbus_proto_address	7

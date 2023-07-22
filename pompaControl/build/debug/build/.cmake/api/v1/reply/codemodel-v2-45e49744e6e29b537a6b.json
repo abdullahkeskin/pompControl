@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pompaControl",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "pompaControl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pompaControl-Debug-151539087ca2a13e2c83.json",
+					"name" : "pompaControl",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Supervisor/Documents/Projects/FreeLancer/GuvenCelik/AppPomp/embed/pompaControl/build/debug/build",
+		"source" : "C:/Users/Supervisor/Documents/Projects/FreeLancer/GuvenCelik/AppPomp/embed/pompaControl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

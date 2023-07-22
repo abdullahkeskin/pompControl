@@ -1,0 +1,3 @@
+C:/Users/Supervisor/Documents/Projects/FreeLancer/GuvenCelik/AppPomp/embed/pompaControl/build/debug/build/CMakeFiles/pompaControl.dir
+C:/Users/Supervisor/Documents/Projects/FreeLancer/GuvenCelik/AppPomp/embed/pompaControl/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/Supervisor/Documents/Projects/FreeLancer/GuvenCelik/AppPomp/embed/pompaControl/build/debug/build/CMakeFiles/rebuild_cache.dir
